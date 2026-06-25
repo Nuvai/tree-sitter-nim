@@ -17,3 +17,23 @@ target/
 *.a
 *.wasm
 *.dll
+
+# Auto-added by Nuvai session-start-governance-check
+.nuvai/reports
+.nuvai/local/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+.next/
+*.tsbuildinfo
+.build/
+.swiftpm/
+vendor/
